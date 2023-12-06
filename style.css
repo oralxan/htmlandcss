@@ -1,0 +1,94 @@
+body {
+    background-color:rgb(252, 243, 225);
+    font-family: Aardvark;
+
+}
+header {
+    display: flex;
+ 
+
+}
+#header_ul {
+    display: flex;
+
+}
+#header_li {
+    margin: 20px;
+
+}
+#header_img {
+    width: 100px;
+    border-radius: 50%;
+}
+@font-face {
+    font-family: my;
+    src: url(./fonts/my-Regular.ttf);
+}
+
+div{
+    font-family: my;
+    text-align: center;
+}
+
+
+   
+
+table{
+    font-family: Yu Gothic UI Semibold;
+    width: 50px;
+}
+
+@font-face {
+    font-family: crewniverse_font_V6_0;
+    src: url(./fonts/crewniverse_font_V6_0.ttf)
+}
+
+#ul_header{
+    font-family: crewniverse_font_V6_0;
+    margin-left: 5%;
+    
+
+
+}
+#div_header{
+    font-family: Showcard Gothic;
+    text-align: center;
+}
+#id_body{
+    
+        background-color:rgb(247, 239, 219);
+        font-family: Aardvark;
+
+}
+#my{
+    text-align: center;
+
+}
+.about_div{
+    width: 80%;
+    text-align: center;
+    display: flex;
+   
+
+}
+.about_div #about_img{
+    width: 20%;
+    border-radius: 10%;
+}
+.about_div .text_about{
+    width:50% ;
+    
+
+}
+#contact{
+    font-family: Showcard Gothic;
+    
+
+    
+}
+#con_Id{
+    font-family: Stencil;
+    
+}
+
+
